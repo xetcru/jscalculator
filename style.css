@@ -1,0 +1,15 @@
+h1, h2 {
+  /*font-family: Lato;*/
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.my-container {
+  margin-top: 25px;
+}
+
+.my-card-header {
+  text-align: center;
+}
+
+.my-result {
+  font-size: 30px;
+}
